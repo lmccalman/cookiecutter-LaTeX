@@ -1,0 +1,3 @@
+[submodule "{{ cookiecutter.document_name }}/common"]
+	path = {{ cookiecutter.document_name }}/common
+	url = git@github.com:lmccalman/LaTeX-common.git
