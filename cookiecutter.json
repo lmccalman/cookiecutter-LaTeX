@@ -1,5 +1,8 @@
 {
   "full_name":"Lachlan McCalman",
   "document_name":"template_article",
-  "title":"Lachlan's LaTeX Article Template"
+  "title":"Lachlan's LaTeX Article Template",
+  "_copy_without_render": [
+        "common/*.tex"
+    ]
 }
